@@ -15,7 +15,7 @@ Graduação - Sistemas de informação [FAFRAM]
 
 <div>
   <div align = "left">
-<img height = "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaguerrero&show_icons=true&theme=bear&count_private=true"/>
-<img height = "125em" src="https://github-readme-stats.vercel.app/api?username=kauaguerrero&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaguerrero&show_icons=true&theme=highcontrast&count_private=true"/>
+<img height = "125em" src="https://github-readme-stats.vercel.app/api?username=kauaguerrero&show_icons=true&show_icons=true&theme=highcontrast&count_private=true" />
 </div>
 </div>
