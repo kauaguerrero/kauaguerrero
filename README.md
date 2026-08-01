@@ -1,10 +1,6 @@
-<div>
-  <div align="left">
-    <h1>Kauã Guerrero</h1>
-    <p>Founder da StudyTrack (SaaS B2B para cursinhos preparatórios) e estagiário de Gerenciamento de Projetos na Simova Tecnologia.</p>
-  </div>
-  <img align="right" width="120" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1hdjRzZmd2Z2t3OHpvcG50c2FwczZyYXQweDlsOTQ1YnF6bGlpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlOBZcl7sbV6LnO/giphy.gif" />
-</div>
+# Kauã Guerrero
+
+Founder da StudyTrack (SaaS B2B para cursinhos preparatórios) e estagiário de Gerenciamento de Projetos na Simova Tecnologia.
 
 ## 🚀 O que eu faço
 
@@ -37,6 +33,6 @@ Sistemas de Informação na FAFRAM (Ituverava) e Administração EAD na Estácio
 ---
 
 <div align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kauaguerrero&show_icons=true&theme=highcontrast" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaguerrero&show_icons=true&theme=highcontrast" />
+  <img src="https://img.shields.io/github/followers/kauaguerrero?label=Followers&style=for-the-badge&color=0366d6" />
+  <img src="https://img.shields.io/github/stars/kauaguerrero?label=Stars&style=for-the-badge&color=0366d6" />
 </div>
