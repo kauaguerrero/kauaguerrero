@@ -3,7 +3,7 @@
     <h1>Kauã Guerrero</h1>
     <p>Founder da StudyTrack (SaaS B2B para cursinhos preparatórios) e estagiário de Gerenciamento de Projetos na Simova Tecnologia.</p>
   </div>
-  <img align="right" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1hdjRzZmd2Z2t3OHpvcG50c2FwczZyYXQweDlsOTQ1YnF6bGlpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlOBZcl7sbV6LnO/giphy.gif" />
+  <img align="right" width="120" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG1hdjRzZmd2Z2t3OHpvcG50c2FwczZyYXQweDlsOTQ1YnF6bGlpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlOBZcl7sbV6LnO/giphy.gif" />
 </div>
 
 ## 🚀 O que eu faço
@@ -37,6 +37,6 @@ Sistemas de Informação na FAFRAM (Ituverava) e Administração EAD na Estácio
 ---
 
 <div align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kauaguerrero&show_icons=true&count_private=true&theme=highcontrast" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaguerrero&show_icons=true&count_private=true&theme=highcontrast" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kauaguerrero&show_icons=true&theme=highcontrast" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauaguerrero&show_icons=true&theme=highcontrast" />
 </div>
